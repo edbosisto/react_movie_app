@@ -1,6 +1,6 @@
 # React Movie App
 
-A simple, fun project to learn React basics and improve JS skills. Built by Ed Bosisto with inspiration and CSS files from https://www.youtube.com/watch?v=b9eMGE7QtTk.
+A simple, fun project to learn React basics and improve JS skills. Built by Ed Bosisto with inspiration and CSS files from https://www.youtube.com/watch?v=b9eMGE7QtTk. The project uses omdbapi for all movie titles and information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
